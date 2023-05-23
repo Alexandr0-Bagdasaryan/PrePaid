@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHZMfj7tzjP3A3V8+WFM5awxKzRmninJDn/SaVAYJycw7h9+9b4Ne7ZQVPDq7/wrE0cFJLTshttxFiGgDlOTGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bagro\\source\\repos\\Prepaid\\Prepaid\\Prepaid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bagro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\bagro\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\bagro\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\bagro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
